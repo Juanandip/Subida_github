@@ -1,3 +1,9 @@
+<html>
+<head>
+</head>
+
+<body>
+
 <h1>CURSO ANGULAR</h1>
 
 <ul>
@@ -13,3 +19,7 @@
 <li>VIDEO 10</li>
 </ul>
 
+</body>
+
+
+</html>
