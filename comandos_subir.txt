@@ -1,8 +1,9 @@
 Como subir archivos:
 
-1.-
-2.-
-3.-
-4.-
-5.-
+1.- git commit -m "tercer mensaje"
+
+2.- git push -u origin master
+
+3.- git add "archivo nuevo"
+
 
